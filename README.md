@@ -17,7 +17,5 @@ Thanks a lot for visiting — I'd love to connect and share ideas!
 
 - Database: MySQL
 
-- Tools: VS Code, PhpStorm, Git, Jira 
-
 
 
