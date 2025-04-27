@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Sanjida Nuri Pearl!
-Welcome to my GitHub profile!
-I'm a passionate Software Engineer from Bangladesh.
+Welcome to my GitHub profile! I'm a passionate Software Engineer from Bangladesh.
 
 Thanks a lot for visiting — I'd love to connect and share ideas!
 
@@ -10,8 +9,6 @@ Thanks a lot for visiting — I'd love to connect and share ideas!
 - 🎯 Passionate about learning new technologies.
 
 - 🌱 Currently working with Laravel, PHP, Javascript, REST APIs, MySQL, and more.
-
-- 🌍 Dreaming to contribute more to open-source and global tech communities.
 
 **🛠️ Tech Stack**
 - Backend: PHP, Laravel, REST API
