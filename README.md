@@ -22,8 +22,5 @@ Thanks a lot for visiting — I'd love to connect and share ideas!
 
 - Tools: VS Code, PhpStorm, Git, Jira 
 
-**🌟 Let's Connect!**
-- LinkedIn ((https://www.linkedin.com/in/sanjida-nuri-pearl-081684230/))
-
 
 
